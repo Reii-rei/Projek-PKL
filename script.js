@@ -82,7 +82,7 @@ const ikon = {
 
 const home = () => `
 <section class="hero view">
-  <div class="pic"><img src="C:\Users\rei\Pictures\Poto WhatsApp" data-ph="Foto diri" alt="Foto ${D.nama}"></div>
+  <div class="pic"><img src="foto/foto-diri.jpg" data-ph="Foto diri" alt="Foto ${D.nama}"></div>
   <div class="glass hero-card">
     <p class="hi">Halo, saya</p><h1>${D.nama}</h1>
     <p class="role"><b>Siswa SMK jurusan Teknik Komputer dan Jaringan.</b> Sedang PKL di PT. Elda Sarana Informatika, bagian IoT (Elektro).</p>
