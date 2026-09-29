@@ -82,14 +82,14 @@ const ikon = {
 
 const home = () => `
 <section class="hero view">
-  <div class="pic"><img src="foto/foto-diri.jpg" data-ph="Foto diri" alt="Foto ${D.nama}"></div>
+  <div class="pic"><img src="C:\Users\rei\Pictures\Poto WhatsApp" data-ph="Foto diri" alt="Foto ${D.nama}"></div>
   <div class="glass hero-card">
     <p class="hi">Halo, saya</p><h1>${D.nama}</h1>
     <p class="role"><b>Siswa SMK jurusan Teknik Komputer dan Jaringan.</b> Sedang PKL di PT. Elda Sarana Informatika, bagian IoT (Elektro).</p>
     <div class="row soc">
-      <a href="https://www.tiktok.com/@reivaldyerere" target="_blank" rel="noopener">${ikon.tt}@reivaldyerere</a>
-      <a href="https://instagram.com/reivaldyerere_" target="_blank" rel="noopener">${ikon.ig}@reivaldyerere_</a>
-      <a href="https://wa.me/62819xxxxxxxx" target="_blank" rel="noopener">${ikon.wa}+62 819-xxxx-xxxx</a>
+      <a href="https://www.tiktok.com/@reiii_.r?_r=1&_t=ZS-9A7vIPmtPAT" target="_blank" rel="noopener">${ikon.tt}@reiii_.r</a>
+      <a href="https://www.instagram.com/reii_ree?stkn=bndjZTNrN2JsNjdx" target="_blank" rel="noopener">${ikon.ig}@reii_ree</a>
+      <a href="https://wa.me/qr/TBNEEID6XBKSP1" target="_blank" rel="noopener">${ikon.wa}+62 896-5661-2984</a>
     </div>
     <div class="row"><a class="btn" href="#/kegiatan">Lihat kegiatan</a><a class="btn ghost" href="#/tentang">Tentang PKL</a></div>
     <div class="logos">
